@@ -19,8 +19,8 @@
 		<div class="container pt-3 pb-3">
             <div class="site-info">
                 &copy; <?php echo date('Y'); ?> <?php echo '<a href="'.home_url().'">'.get_bloginfo('name').'</a>'; ?>
-                <span class="sep"> | </span>
-                <a class="credits" href="https://afterimagedesigns.com/clearwatercsc-theme/" target="_blank" title="WordPress Technical Support" alt="Bootstrap WordPress Theme"><?php echo esc_html__('Bootstrap WordPress Theme','clearwatercsc-theme'); ?></a>
+                <span class="sep"></span>
+                <a class="credits" href="https://clearwatercsc.com/" target="_blank" title="Clearwater Landscaping Services" alt="Clearwater Landscaping Services"><?php echo esc_html__('Landscape Services, Inc.','clearwatercsc-theme'); ?></a>
 
             </div><!-- close .site-info -->
 		</div>
